@@ -18,7 +18,7 @@ To run Alien Invasion, follow these steps:
 2. Install the Pygame library by running the following command:
 
 
-3. Clone this repository to your local machine:  https://github.com/AyaanShaheer/alien-invasion.git
+3. Clone this repository to your local machine:  https://github.com/AyaanShaheer/alien_invasion_game.git
 
   
 4. Navigate to the cloned directory: cd alien-invasion
